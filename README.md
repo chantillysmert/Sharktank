@@ -1,3 +1,3 @@
 # Sharktank
 Sharktank Project
-Hello World
+Emily, Twinkle, Madhu, Ria, and Sarah
