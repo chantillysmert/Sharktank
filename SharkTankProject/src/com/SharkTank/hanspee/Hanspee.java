@@ -95,6 +95,7 @@ public class Hanspee {
 		keyboard.show();
     }
 
+    //test224
     public void stop() {
         current = Display.getInstance().getCurrent();
         if(current instanceof Dialog) {
